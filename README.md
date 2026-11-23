@@ -1,31 +1,34 @@
 # Final-Project-Template
-<!-- Edit the title above with your project title -->
+Public Transportation correlation with Happiness
 
 ## Project Overview
 
 ## Self Assessment and Reflection
 
-<!-- Edit the following section with your self assessment and reflection -->
+i think i did okay this time, I had a lot going on with my personal life and it made me fall back in this and struggle, so i will try and manage my time better and take the timeto learn and do better on the next assignments and not fall behind.
 
 ### Self Assessment
 <!-- Replace the (...) with your score -->
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 15 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 20 / 30 |
+| **Total**         | 55 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
+  i found good sources and got the assignment done after being so far behind
 #### What did not go well?
+  I fell behind with the other parts of the assignment like peer review and had trouble understanding
 #### What did you learn?
+  I need to manage my time better but I can do it!
 #### What would you do differently next time?
-
+ Do it eariler in the week and spend time doing and learning
 ---
 
 ## Getting Started
